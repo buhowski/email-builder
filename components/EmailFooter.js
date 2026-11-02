@@ -1,7 +1,7 @@
 import { C, UI, tableAttr } from './EmailLayout.js';
 
 // Icons Server Path
-const SERVER_SITE_URL = 'https://buhowski.github.io/html-email-builder';
+const SERVER_SITE_URL = 'https://buhowski.github.io/email-builder';
 const ICONS_PATH = `${SERVER_SITE_URL}/assets/icons`;
 
 // Social media links

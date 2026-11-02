@@ -2,7 +2,7 @@
 
 Modular system for building and sending emails. Features component template design, an integrated UI panel for instant email testing, and automated delivery via Gmail OAuth2.
 
-- Users receive: [HTML Email Design](https://buhowski.github.io/html-email-builder)
+- Users receive: [Email Design](https://buhowski.github.io/email-builder)
 
 ## Prerequisites
 
